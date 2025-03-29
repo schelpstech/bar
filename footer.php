@@ -103,11 +103,11 @@
                             <h3>Quick Links</h3>
                         </div>
                         <ul>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="contact.html">Contact</a></li>
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="faq.html">FAQs</a></li>
-                            <li><a href="services.html">Our Services</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="resources.php">Resources</a></li>
+                            <li><a href="leadpartner.php">Lead Partner</a></li>
+                            <li><a href="index.php">Home</a></li>
                         </ul>
                     </div>
                 </div>
@@ -117,12 +117,15 @@
                             <h3>Practice Areas</h3>
                         </div>
                         <ul>
-                            <li><a href="contract-law.html">Contract Law</a></li>
-                            <li><a href="corporate-secretarial.html">Corporate Secretarial Services</a></li>
-                            <li><a href="debt-recovery.html">Debt Recovery & Enforcement</a></li>
-                            <li><a href="real-estate-law.html">Real Estate & Property Law</a></li>
-                            <li><a href="litigation.html">Dispute Resolution & Litigation</a></li>
-                            <li><a href="legal-advisory.html">Legal Advisory & Opinion Services</a></li>
+                            <li><a href="contract.php">Contract Law</a></li>
+                            <li><a href="secretarial.php">Corporate Secretarial Services</a></li>
+                            <li><a href="debtRecovery.php">Debt Recovery, Factoring, and Enforcement</a></li>
+                            <li><a href="realEstate.php">Real Estate and Property Law</a></li>
+                            <li><a href="adr.php">Dispute Resolution and Litigation</a></li>
+                            <li><a href="advisory.php">Legal Advisory and Opinion Services</a></li>
+                            <li><a href="notary.php">Notary Public Services</a></li>
+                            <li><a href="compliance.php">Regulatory Compliance Services</a></li>
+                            <li><a href="litigtion.php">Civil and Criminal Litigation Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -158,7 +161,9 @@
             <div class="row">
                 <div class="separator"></div>
                 <div class="col col-xs-12">
-                    <p class="copyright">© <script>document.write(new Date().getFullYear());</script> BAR Chambers. All Rights Reserved.</p>
+                    <p class="copyright">© <script>
+                            document.write(new Date().getFullYear());
+                        </script> BAR Chambers. All Rights Reserved.</p>
                 </div>
             </div>
         </div>
