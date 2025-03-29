@@ -11,6 +11,7 @@
     <meta name="description" content="BAR Chambers - Expert legal services in Nigeria. Specializing in contracts, litigation, and corporate law.">
     <meta name="keywords" content="law firm, legal services, litigation, contracts, company secretarial, Nigeria law">
     <title>BAR Chambers – Trusted Legal Experts</title>
+    <link rel="icon" href="assets/images/logo.jpg" type="image/jpg">
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
