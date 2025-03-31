@@ -29,6 +29,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
 <body>
     <!-- start page-wrapper -->
     <div class="page-wrapper">
@@ -94,11 +95,10 @@
                                 <a href="#">About</a>
                                 <ul class="sub-menu">
                                     <li><a href="about.php">Bar Chambers</a></li>
-                                    <li><a href="leadpartner.php">Our Lead Partner</a></li>
-                                    <li><a href="people.php">Our People</a></li>
+                                    <li><a href="people.php">Events</a></li>
                                 </ul>
                             </li>
-
+                            <li><a href="leadpartner.php">Our People</a></li>
                             <li class="menu-item-has-children">
                                 <a href="#">Practice Areas</a>
                                 <ul class="sub-menu">

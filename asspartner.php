@@ -9,7 +9,7 @@ include "header.php"
                 <h2>Our People</h2>
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a></li>
-                    <li>Lead Partner</li>
+                    <li>Associate Partner</li>
                 </ol>
             </div>
         </div> <!-- end row -->
@@ -23,11 +23,11 @@ include "header.php"
             <div class="col col-lg-9 col-lg-push-3">
                 <div class="attorny-single-content">
                     <div class="img-holder">
-                        <img src="assets/images/team/tunderufai.png" alt>
+                        <img src="assets/images/team/associate.png" alt>
                     </div>
                     <div class="attorney-title">
-                        <h2>Tunde Rufai Esq.</h2>
-                        <span>Principal Partner</span>
+                        <h2>Abana Moyor Joy</h2>
+                        <span>Associate Partner</span>
                     </div>
                     <div class="table-responsive info-table">
                         <table class="table">
@@ -37,11 +37,11 @@ include "header.php"
                             </colgroup>
                             <tr>
                                 <td>Position</td>
-                                <td>Principal Partner</td>
+                                <td>Associate Partner</td>
                             </tr>
                             <tr>
                                 <td>Practice Areas</td>
-                                <td>Corporate Law, Litigation, Property Law, Arbitration, Human Rights</td>
+                                <td>Litigation, Property Law, Corporate Law</td>
                             </tr>
                             <tr>
                                 <td>Location</td>
@@ -53,7 +53,7 @@ include "header.php"
                             </tr>
                             <tr>
                                 <td>Email</td>
-                                <td>tunde.rufai@barchambers.com.ng</td>
+                                <td>abana.moyor@barchambers.com.ng</td>
                             </tr>
                             <tr>
                                 <td>Social</td>
@@ -69,24 +69,26 @@ include "header.php"
                         </table>
                     </div>
                     <h3>Overview</h3>
-                    <p>Tunde Rufai Esq. is a seasoned legal practitioner with expertise in corporate law, property law, civil and criminal litigation, arbitration, and human rights. With vast experience in handling legal documentation, company secretarial duties, and high-profile litigation cases, he has provided legal services to both private and corporate clients within and outside Nigeria.</p>
+                    <p>Abana Moyor Joy is a dedicated and driven Associate Partner with a wealth of legal experience in litigation, property law, and corporate law.
+                        Called to the Bar in 2019, Abana’s career began with the Ondo State Ministry of Justice, where she was involved in prosecuting criminal cases and drafting legal documents.
+                        Since joining BAR CHambers, she has handled both civil and criminal litigation, legal research, and property law matters, including the negotiation and sale of properties, title investigations, and the drafting of legal documents.</p>
                     <h3>Education</h3>
                     <ol>
-                        <li>LL.B (Honors) - Ogun State University (now Olabisi Onabanjo University)</li>
-                        <li>Nigerian Law School (Lagos Campus) - Barrister and Solicitor of the Supreme Court of Nigeria</li>
+                        <li>Barrister at Law (B.L.) - Nigerian Law School, Lagos Campus (2019)</li>
+                        <li>LL.B (Second Class Upper Division) - Delta State University, Abraka (2018)</li>
+                        <li>Diploma in Law (Upper Credit) - Delta State University, Abraka (2012)</li>
                     </ol>
                     <h3>Certifications & Memberships</h3>
                     <ol>
-                        <li>Notary Public, Federal Republic of Nigeria</li>
-                        <li>Fellow, Chartered Institute of Taxation of Nigeria (CITN)</li>
-                        <li>Associate Member, Institute of Chartered Secretaries and Administrators of Nigeria (ICSAN)</li>
+                        <li>Member, Nigerian Bar Association (NBA)</li>
+                        <li>Certified CAC Accredited Agent (2021)</li>
                     </ol>
                     <h3>Related Cases</h3>
                     <ol>
-                        <li>Corporate and commercial litigation</li>
-                        <li>Landlord-Tenant disputes</li>
-                        <li>Judicial review of government acts</li>
-                        <li>Defamation and libel cases</li>
+                        <li>Prosecution of criminal cases including rape cases</li>
+                        <li>Litigation in civil matters</li>
+                        <li>Property law transactions including title investigations and sale negotiations</li>
+                        <li>Corporate law services including company incorporation and contract drafting</li>
                     </ol>
                     <div class="contact">
                         <h3>Contact with me</h3>
@@ -114,16 +116,16 @@ include "header.php"
                     <div class="widget attorney-list-widget">
                         <h3>Our Attorneys</h3>
                         <ul>
-                            <li class="current-item"><a href="leadpartner.php">Lead Partner</a></li>
+                            <li><a href="leadpartner.php">Lead Partner</a></li>
                             <li><a href="snrpartner.php">Senior Partner</a></li>
-                            <li><a href="asspartner.php">Associate Partner</a></li>
+                            <li class="current-item"><a href="asspartner.php">Associate Partner</a></li>
                         </ul>
                     </div>
                     <div class="widget contact-widget">
                         <h3>Contact info</h3>
                         <ul>
                             <li><span>Phone: </span>+2348023978040</li>
-                            <li><span>Email: </span>tunde.rufai@barchambers.com.ng</li>
+                            <li><span>Email: </span>abana.moyor@barchambers.com.ng</li>
                         </ul>
                     </div>
                 </div>

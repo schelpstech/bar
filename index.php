@@ -68,20 +68,30 @@ include "header.php"
 <section class="about-section-s2 section-padding">
     <div class="container">
         <div class="row">
+        <div class="col col-md-5">
+                <img src="assets/images/team/lead.png" alt>
+            </div>
             <div class="col col-md-7">
                 <div class="about-text">
                     <span>About Us</span>
                     <h3>Providing Unmatched Legal Expertise for Over 20 Years</h3>
-                    <p>Bar Chambers is a full-service law firm with a long-standing tradition of excellence. We specialize in corporate law, litigation, real estate, family law, and criminal defense, delivering strategic legal solutions to individuals and businesses alike.</p>
+                    <p>Bar Chambers is a full-service law firm with a long-standing tradition of excellence. 
+                        We specialize in corporate law, litigation, real estate, family law, and criminal defense, delivering strategic legal solutions to individuals and businesses alike.</p>
+                    <p>
+                    As the founder and Senior Partner of Bar Chambers, Rufai Babatunde Adeniyi brings over two decades of expertise in diverse legal disciplines.
+                     His leadership, coupled with his vast experience, has propelled the firm to its current standing as a leader in the legal community. 
+                     Mr. Adeniyi holds several professional accreditations, including LLB, BL, and certifications as a Notary Public, as well as memberships with the FCTI and ACIS, further solidifying his standing as a respected legal professional. 
+                     He is dedicated to advancing the interests of clients with a clear focus on achieving successful outcomes and maintaining the highest standards of legal practice.</p>
+
+                    <p>At Bar Chambers, we are more than just legal advisors; we are your trusted partners in navigating the complexities of the legal landscape. 
+                        We are committed to providing unmatched legal expertise and delivering results that matter.</p>
                     <div class="info">
                         <h4>Rufai Babatunde Adeniyi LLB, BL, Notary Public, FCTI, ACIS</h4>
                         <span>Senior Partner & Founder</span>
                     </div>
                 </div>
             </div>
-            <div class="about-pic">
-                <img src="assets/images/team/lead.png" alt>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -140,7 +150,7 @@ include "header.php"
                         <div class="icon">
                             <i class="fi flaticon-balance"></i>
                         </div>
-                        <h3><a href="#">Legal Advisory and Opinion Services</a></h3>
+                        <h3><a href="#">Legal Advisory and Regulatory Compliance Services</a></h3>
                         <p>Well-researched legal opinions to guide your business and personal decisions.</p>
                     </div>
                 </div>
