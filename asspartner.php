@@ -49,7 +49,7 @@ include "header.php"
                             </tr>
                             <tr>
                                 <td>Phone</td>
-                                <td>+2348023978040</td>
+                                <td>+2348065798096</td>
                             </tr>
                             <tr>
                                 <td>Email</td>
@@ -90,25 +90,6 @@ include "header.php"
                         <li>Property law transactions including title investigations and sale negotiations</li>
                         <li>Corporate law services including company incorporation and contract drafting</li>
                     </ol>
-                    <div class="contact">
-                        <h3>Contact with me</h3>
-                        <div class="contact-form">
-                            <form>
-                                <div class="half-col">
-                                    <input type="text" class="form-control" placeholder="Your Name">
-                                </div>
-                                <div class="half-col">
-                                    <input type="email" class="form-control" placeholder="Your Email">
-                                </div>
-                                <div>
-                                    <textarea class="form-control" placeholder="Case Description..."></textarea>
-                                </div>
-                                <div class="submit-btn-wrapper">
-                                    <button type="submit" class="theme-btn-s2">Appointment</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="col col-lg-3 col-lg-pull-9">
@@ -116,15 +97,16 @@ include "header.php"
                     <div class="widget attorney-list-widget">
                         <h3>Our Attorneys</h3>
                         <ul>
-                            <li><a href="leadpartner.php">Lead Partner</a></li>
-                            <li><a href="snrpartner.php">Senior Partner</a></li>
-                            <li class="current-item"><a href="asspartner.php">Associate Partner</a></li>
+                            <li><a href="leadpartner.php">Tunde Rufai Esq. - Lead Partner</a></li>
+                            <li><a href="snrpartner.php">Imma Okochua Esq. - Senior Partner</a></li>
+                            <li><a href="snrpartner2.php">Akinwunmi Akindele Esq. - Senior Partner</a></li>
+                            <li class="current-item"><a href="asspartner.php">Abana Moyor Joy - Associate Partner</a></li>
                         </ul>
                     </div>
                     <div class="widget contact-widget">
                         <h3>Contact info</h3>
                         <ul>
-                            <li><span>Phone: </span>+2348023978040</li>
+                            <li><span>Phone: </span>+2348065798096</li>
                             <li><span>Email: </span>abana.moyor@barchambers.com.ng</li>
                         </ul>
                     </div>

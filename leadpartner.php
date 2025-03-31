@@ -59,9 +59,9 @@ include "header.php"
                                 <td>Social</td>
                                 <td>
                                     <ul>
-                                        <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"><i class="ti-linkedin"></i></a></li>
+                                        <li><a href="https://www.facebook.com/share/1Dr6wG8d4A/"><i class="ti-facebook"></i></a></li>
+                                        <li><a href="https://x.com/tunderufaiesq?s=09"><i class="ti-twitter-alt"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/rufai-babatunde-llb-bl-notary-public-fcti-acis-aa749417?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="ti-linkedin"></i></a></li>
                                         <li><a href="#"><i class="ti-pinterest"></i></a></li>
                                     </ul>
                                 </td>
@@ -88,25 +88,6 @@ include "header.php"
                         <li>Judicial review of government acts</li>
                         <li>Defamation and libel cases</li>
                     </ol>
-                    <div class="contact">
-                        <h3>Contact with me</h3>
-                        <div class="contact-form">
-                            <form>
-                                <div class="half-col">
-                                    <input type="text" class="form-control" placeholder="Your Name">
-                                </div>
-                                <div class="half-col">
-                                    <input type="email" class="form-control" placeholder="Your Email">
-                                </div>
-                                <div>
-                                    <textarea class="form-control" placeholder="Case Description..."></textarea>
-                                </div>
-                                <div class="submit-btn-wrapper">
-                                    <button type="submit" class="theme-btn-s2">Appointment</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="col col-lg-3 col-lg-pull-9">
@@ -114,9 +95,10 @@ include "header.php"
                     <div class="widget attorney-list-widget">
                         <h3>Our Attorneys</h3>
                         <ul>
-                            <li class="current-item"><a href="leadpartner.php">Lead Partner</a></li>
-                            <li><a href="snrpartner.php">Senior Partner</a></li>
-                            <li><a href="asspartner.php">Associate Partner</a></li>
+                            <li class="current-item"><a href="leadpartner.php">Tunde Rufai Esq. - Lead Partner</a></li>
+                            <li><a href="snrpartner.php">Imma Okochua Esq. - Senior Partner</a></li>
+                            <li><a href="snrpartner2.php">Akinwunmi Akindele Esq. - Senior Partner</a></li>
+                            <li><a href="asspartner.php">Abana Moyor Joy - Associate Partner</a></li>
                         </ul>
                     </div>
                     <div class="widget contact-widget">

@@ -58,7 +58,8 @@
                             <div class="contact-info">
                                 <ul>
                                     <li><i class="ti-location-pin"></i>No. 5, Tokunbo Alli Street, off Toyin Street, Ikeja, Lagos, Nigeria</li>
-                                    <li><i class="ti-mobile"></i>08023978040</li>
+                                    <li><i class="ti-location-pin"></i>No. 57. Akin Ogunlewe Street, off Bayeku Road/Bola Tinubu Road, Igbogbo, Ikorodu, Lagos, Nigeria</li>
+                                    <li><i class="ti-mobile"></i>08032057023</li>
                                     <li><i class="ti-email"></i>admin@barchambers.com.ng</li>
                                 </ul>
                             </div>
@@ -66,9 +67,9 @@
                         <div class="col col-md-2">
                             <div class="social">
                                 <ul>
-                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                    <li><a href="#"><i class="ti-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/share/1EER46whoh/"><i class="ti-facebook"></i></a></li>
+                                    <li><a href="https://x.com/lawklinic?s=09"><i class="ti-twitter-alt"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/rufai-babatunde-llb-bl-notary-public-fcti-acis-aa749417?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="ti-linkedin"></i></a></li>
                                     <li><a href="#"><i class="ti-pinterest"></i></a></li>
                                 </ul>
                             </div>
@@ -98,7 +99,14 @@
                                     <li><a href="people.php">Events</a></li>
                                 </ul>
                             </li>
-                            <li><a href="leadpartner.php">Our People</a></li>
+                            <li class="menu-item-has-children">
+                                <a href="#">Our People</a>
+                                <ul class="sub-menu">
+                                    <li><a href="leadpartner.php">Lead Partner</a></li>
+                                    <li><a href="snrpartner.php">Senior Partner</a></li>
+                                    <li><a href="asspartner.php">Associate Partner</a></li>
+                                </ul>
+                            </li>
                             <li class="menu-item-has-children">
                                 <a href="#">Practice Areas</a>
                                 <ul class="sub-menu">

@@ -16,6 +16,7 @@ include "header.php"
     </div> <!-- end container -->
 </section>
 <!-- end page-title -->
+
 <!-- start attorny-single-section -->
 <section class="attorny-single-section section-padding">
     <div class="container">
@@ -23,10 +24,10 @@ include "header.php"
             <div class="col col-lg-9 col-lg-push-3">
                 <div class="attorny-single-content">
                     <div class="img-holder">
-                        <img src="assets/images/team/okochua.png" alt>
+                        <img src="assets/images/team/akinwunmi.png" alt="Akinwunmi Akindele Esq.">
                     </div>
                     <div class="attorney-title">
-                        <h2>Imma Okochua Esq.</h2>
+                        <h2>Akinwunmi Akindele Esq.</h2>
                         <span>Senior Partner</span>
                     </div>
                     <div class="table-responsive info-table">
@@ -41,7 +42,7 @@ include "header.php"
                             </tr>
                             <tr>
                                 <td>Practice Areas</td>
-                                <td>Litigation, Legal Analysis, Comparative Company Laws, Labour Laws, Conflict of Laws</td>
+                                <td>Litigation, Land Law, Labour Law, Contracts, Immigration Law</td>
                             </tr>
                             <tr>
                                 <td>Location</td>
@@ -49,11 +50,11 @@ include "header.php"
                             </tr>
                             <tr>
                                 <td>Phone</td>
-                                <td>+2348026060900</td>
+                                <td>+2348023129946</td>
                             </tr>
                             <tr>
                                 <td>Email</td>
-                                <td>imma.okojhua@barchambers.com.ng</td>
+                                <td>akinwunmi.akindele@barchambers.com.ng</td>
                             </tr>
                             <tr>
                                 <td>Social</td>
@@ -69,24 +70,26 @@ include "header.php"
                         </table>
                     </div>
                     <h3>Overview</h3>
-                    <p>Imma Okochua Esq. is a distinguished Senior Partner with extensive legal experience spanning all six geopolitical zones of Nigeria. He was called to the Nigerian Bar in 1987 and has since made significant contributions in litigation, legal analysis, and exposition. With a Master of Laws (LL.M.) from the University of Lagos, he specializes in Comparative Company Laws, Labour Laws, Conflict of Laws (Private International Laws), and Jurisprudence. Imma is also an accomplished legal writer and analyst.</p>
+                    <p>Akinwunmi Akindele Esq. is a Senior Partner with over three decades of legal experience. Called to the Nigerian Bar in 1988, he specializes in various areas of law, including litigation in Land Law, Labour Law, Contracts, and Immigration Law. Akinwunmi has been part of a group of consultants who presented papers to the National Assembly for the elevation of the National Industrial Court to a court of records. He has also been the legal adviser to the Nigerian Union of Banks, Insurance, and Financial Institutions Employees since 1989. His expertise and long history of advocacy make him a respected figure in his practice areas.</p>
+
                     <h3>Education</h3>
                     <ol>
-                        <li>LL.B (Hons.) - University of Calabar (Unical)</li>
-                        <li>B.L. - Nigerian Law School</li>
-                        <li>LL.M. (Master of Laws) - University of Lagos, specializing in Comparative Company Laws, Labour Laws, Conflict of Laws, and Jurisprudence</li>
+                        <li>LL.B (Hons.) - University of Lagos (1987)</li>
+                        <li>B.L. - Nigerian Law School (1988)</li>
+                        <li>LL.M. - University of Lagos (1991)</li>
                     </ol>
+
                     <h3>Certifications & Memberships</h3>
                     <ol>
                         <li>Member, Nigerian Bar Association (NBA)</li>
                         <li>Member, International Bar Association (IBA)</li>
+                        <li>Legal Adviser to the Nigerian Union of Banks, Insurance, and Financial Institutions Employees (since 1989)</li>
                     </ol>
-                    <h3>Related Cases</h3>
+                    <h3>Related Cases and Advocacy</h3>
                     <ol>
-                        <li>Litigation in various sectors across Nigeria</li>
-                        <li>Legal analysis and commentary on corporate law matters</li>
-                        <li>Disputes involving labour and employment laws</li>
-                        <li>Cases in Conflict of Laws and Jurisprudence</li>
+                        <li>Part of a group that presented papers to the National Assembly for the elevation of the National Industrial Court to a court of records.</li>
+                        <li>Litigation in Land Law, Labour Law, Contracts, and Immigration Law.</li>
+                        <li>Extensive legal advisory roles for the Nigerian Union of Banks, Insurance, and Financial Institutions Employees.</li>
                     </ol>
                 </div>
             </div>
@@ -96,16 +99,16 @@ include "header.php"
                         <h3>Our Attorneys</h3>
                         <ul>
                             <li><a href="leadpartner.php">Tunde Rufai Esq. - Lead Partner</a></li>
-                            <li class="current-item"><a href="snrpartner.php">Imma Okochua Esq. - Senior Partner</a></li>
-                            <li><a href="snrpartner2.php">Akinwunmi Akindele Esq. - Senior Partner</a></li>
+                            <li><a href="snrpartner.php">Imma Okochua Esq. - Senior Partner</a></li>
+                            <li class="current-item"><a href="snrpartner2.php">Akinwunmi Akindele Esq. - Senior Partner</a></li>
                             <li><a href="asspartner.php">Abana Moyor Joy - Associate Partner</a></li>
                         </ul>
                     </div>
                     <div class="widget contact-widget">
                         <h3>Contact info</h3>
                         <ul>
-                            <li><span>Phone: </span>+2348026060900</li>
-                            <li><span>Email: </span>imma.okojhua@barchambers.com.ng</li>
+                            <li><span>Phone: </span>+2348023129946</li>
+                            <li><span>Email: </span>akinwunmi.akindele@barchambers.com.ng</li>
                         </ul>
                     </div>
                 </div>

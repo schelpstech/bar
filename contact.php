@@ -87,11 +87,11 @@ include "header.php"
                 </div>
 
                 <div class="contact-map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1014631.157958457!2d3.348363!3d6.596738!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8dfb96940519%3A0x2849a38e57764cb8!2sB.%20A.%20Rufai%20and%20Company%20(Legal%20Practitioners%20%26%20Notaries%20Public)!5e0!3m2!1sen!2sus!4v1743157037443!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1014631.157958457!2d3.348363!3d6.596738!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8dfb96940519%3A0x2849a38e57764cb8!2sB.%20A.%20Rufai%20and%20Company%20(Legal%20Practitioners%20%26%20Notaries%20Public)!5e0!3m2!1sen!2sus!4v1743157037443!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
 
                 <div class="contact-map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3963.4526320131786!2d3.527095!3d6.590526!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bef5a8feb982d%3A0x432fadc5a595f02d!2sB.%20A.%20Rufai%20and%20Company%20(Legal%20Practitioners%20%26%20Notaries%20Public)%20Ikorodu%20Office!5e0!3m2!1sen!2sus!4v1743157146461!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3963.4526320131786!2d3.527095!3d6.590526!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bef5a8feb982d%3A0x432fadc5a595f02d!2sB.%20A.%20Rufai%20and%20Company%20(Legal%20Practitioners%20%26%20Notaries%20Public)%20Ikorodu%20Office!5e0!3m2!1sen!2sus!4v1743157146461!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
