@@ -6,10 +6,10 @@ include "header.php"
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">
-                <h2>Practice area single</h2>
+                <h2>Event</h2>
                 <ol class="breadcrumb">
-                    <li><a href="index-2.html">Home</a></li>
-                    <li>Practice area single</li>
+                    <li><a href="index.php">Home</a></li>
+                    <li>Events</li>
                 </ol>
             </div>
         </div> <!-- end row -->
