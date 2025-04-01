@@ -127,6 +127,7 @@
                                 <li><a href="resources.php">Forms</a></li>
                                     <li><a href="https://barchambers.com.ng/mail">Mail App</a></li>
                                     <li><a href="https://barchambers.com.ng/invoice">Invoice App</a></li>
+                                    <li><a href="https://apps.barchambers.com.ng/index.php/contact-us/tenancy-forms/">Tenancy Form</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact.php">Contact</a></li>
