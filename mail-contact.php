@@ -34,11 +34,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         //Recipients
         $mail->setFrom($email, $name);                               // Sender's email and name
-        $mail->addAddress('esender@barchambers.com.ng');                 // Recipient's email (your email or admin email)
+        $mail->addAddress('tunderufai@barchambers.com.ng');                 // Recipient's email (your email or admin email)
 
         // Content
         $mail->isHTML(true);                                         // Set email format to HTML
-        $mail->Subject = 'New Appointment Request';
+        $mail->Subject = 'New Contact Email';
         $mail->Body    = "
             <strong>Name:</strong> $name<br>
             <strong>Email:</strong> $email<br>
