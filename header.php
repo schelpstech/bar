@@ -118,11 +118,17 @@
                                     <li><a href="advisory.php">Legal Advisory and Opinion Services</a></li>
                                     <li><a href="notary.php">Notary Public Services</a></li>
                                     <li><a href="compliance.php">Regulatory Compliance Services</a></li>
-                                    <li><a href="litigtion.php">Civil and Criminal Litigation Services</a></li>
+                                    <li><a href="litigation.php">Civil and Criminal Litigation Services</a></li>
                                 </ul>
-
                             </li>
-                            <li><a href="resources.php">Resources</a></li>
+                            <li class="menu-item-has-children">
+                                <a href="#"> Resources</a>
+                                <ul class="sub-menu">
+                                <li><a href="resources.php">Forms</a></li>
+                                    <li><a href="https://barchambers.com.ng/mail">Mail App</a></li>
+                                    <li><a href="https://barchambers.com.ng/invoice">Invoice App</a></li>
+                                </ul>
+                            </li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div><!-- end of nav-collapse -->

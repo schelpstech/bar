@@ -62,7 +62,7 @@ include "header.php"
                             <li class="current-item"><a href="advisory.php">Legal Advisory and Opinion Services</a></li>
                             <li><a href="notary.php">Notary Public Services</a></li>
                             <li><a href="compliance.php">Regulatory Compliance Services</a></li>
-                            <li><a href="litigtion.php">Civil and Criminal Litigation Services</a></li>
+                            <li><a href="litigation.php">Civil and Criminal Litigation Services</a></li>
                         </ul>
                     </div>
                     <div class="widget contact-widget">

@@ -80,6 +80,7 @@ include "header.php"
                         <li>Notary Public, Federal Republic of Nigeria</li>
                         <li>Fellow, Chartered Institute of Taxation of Nigeria (CITN)</li>
                         <li>Associate Member, Institute of Chartered Secretaries and Administrators of Nigeria (ICSAN)</li>
+                        <li>Pioneer Member, THE SOCIETY FOR NOTARIES PUBLIC</li>
                     </ol>
                     <h3>Related Cases</h3>
                     <ol>

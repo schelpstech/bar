@@ -62,7 +62,7 @@ include "header.php"
                             <li><a href="advisory.php">Legal Advisory and Opinion Services</a></li>
                             <li><a href="notary.php">Notary Public Services</a></li>
                             <li><a href="compliance.php">Regulatory Compliance Services</a></li>
-                            <li><a href="litigtion.php">Civil and Criminal Litigation Services</a></li>
+                            <li><a href="litigation.php">Civil and Criminal Litigation Services</a></li>
                         </ul>
                     </div>
                     <div class="widget contact-widget">
@@ -71,6 +71,7 @@ include "header.php"
                             <li><span>Phone: </span>08023978040(+234)</li>
                             <li><span>Email: </span> secretarial@barchambers.com.ng</li>
                             <li><span>Address: </span>No. 5, Tokunbo Alli Street, off Toyin Street, Ikeja, Lagos, Nigeria</li>
+                            <li><span>Address: </span>No. 57. Akin Ogunlewe Street, off Bayeku Road/Bola Tinubu Road, Igbogbo, Ikorodu, Lagos, Nigeria</li>
                             <li><span>Office hour: </span>10am - 5pm</li>
                         </ul>
                     </div>

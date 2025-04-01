@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host       =  'mail.barchambers.com.ng';                       // Set the SMTP server (for Gmail)
         $mail->SMTPAuth   = true;                                    // Enable SMTP authentication
         $mail->Username   = 'esender@barchambers.com.ng';                   // SMTP username (use your Gmail or custom SMTP credentials)
-        $mail->Password   = 'ChisomRufai@2025';                 // SMTP password (consider using an app-specific password for Gmail)
+        $mail->Password   = 'LoveGod2025@';                 // SMTP password (consider using an app-specific password for Gmail)
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;             // Use SSL encryption
         $mail->Port       = 465;                                     // TCP port for SSL (465 is the SSL port)
 

@@ -20,6 +20,12 @@
                     <div class="grid">
                         <img src="assets/images/partners/plogo.png" alt>
                     </div>
+                    <div class="grid">
+                        <img src="assets/images/partners/royal.png" alt>
+                    </div>
+                    <div class="grid">
+                        <img src="assets/images/partners/goldensun.jpg" alt>
+                    </div>
                 </div>
             </div>
         </div>
