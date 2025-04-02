@@ -103,8 +103,14 @@
                                 <a href="#">Our People</a>
                                 <ul class="sub-menu">
                                     <li><a href="leadpartner.php">Lead Partner</a></li>
-                                    <li><a href="snrpartner.php">Senior Partner</a></li>
-                                    <li><a href="asspartner.php">Associate Partner</a></li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Our Partners</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="snrpartner.php">Imma Okochua Esq.</a></li>
+                                            <li><a href="snrpartner2.php">Akinwunmi Akindele Esq.</a></li>
+                                            <li><a href="asspartner.php">Abana Moyor Joy</a></li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children">
@@ -124,7 +130,7 @@
                             <li class="menu-item-has-children">
                                 <a href="#"> Resources</a>
                                 <ul class="sub-menu">
-                                <li><a href="resources.php">Forms</a></li>
+                                    <li><a href="resources.php">Forms</a></li>
                                     <li><a href="https://barchambers.com.ng/mail">Mail App</a></li>
                                     <li><a href="https://barchambers.com.ng/invoice">Invoice App</a></li>
                                     <li><a href="https://apps.barchambers.com.ng/index.php/contact-us/tenancy-forms/">Tenancy Form</a></li>
