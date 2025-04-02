@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         //Recipients
         $mail->setFrom($email, $name);                               // Sender's email and name
-        $mail->addAddress('tunderufai@barchambers.com.ng');                 // Recipient's email (your email or admin email)
+        $mail->addAddress('admin@barufai.com.ng');                 // Recipient's email (your email or admin email)
 
         // Content
         $mail->isHTML(true);                                         // Set email format to HTML
