@@ -60,7 +60,7 @@
                                     <li><i class="ti-location-pin"></i>No. 5, Tokunbo Alli Street, off Toyin Street, Ikeja, Lagos, Nigeria</li>
                                     <li><i class="ti-location-pin"></i>No. 57. Akin Ogunlewe Street, off Bayeku Road/Bola Tinubu Road, Igbogbo, Ikorodu, Lagos, Nigeria</li>
                                     <li><i class="ti-mobile"></i>08032057023</li>
-                                    <li><i class="ti-email"></i>admin@barchambers.com.ng</li>
+                                    <li><i class="ti-email"></i>admin@barufai.com.ng</li>
                                 </ul>
                             </div>
                         </div>

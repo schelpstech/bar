@@ -54,7 +54,7 @@ include "header.php"
                             </tr>
                             <tr>
                                 <td>Email</td>
-                                <td>akinwunmi.akindele@barchambers.com.ng</td>
+                                <td>akinwunmi.akindele@barufai.com.ng</td>
                             </tr>
                             <tr>
                                 <td>Social</td>
@@ -108,7 +108,7 @@ include "header.php"
                         <h3>Contact info</h3>
                         <ul>
                             <li><span>Phone: </span>+2348023129946</li>
-                            <li><span>Email: </span>akinwunmi.akindele@barchambers.com.ng</li>
+                            <li><span>Email: </span>akinwunmi.akindele@barufai.com.ng</li>
                         </ul>
                     </div>
                 </div>

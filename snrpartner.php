@@ -53,7 +53,7 @@ include "header.php"
                             </tr>
                             <tr>
                                 <td>Email</td>
-                                <td>imma.okochua@barchambers.com.ng</td>
+                                <td>imma.okochua@barufai.com.ng</td>
                             </tr>
                             <tr>
                                 <td>Social</td>
@@ -105,7 +105,7 @@ include "header.php"
                         <h3>Contact info</h3>
                         <ul>
                             <li><span>Phone: </span>+2348026060900</li>
-                            <li><span>Email: </span>imma.okochua@barchambers.com.ng</li>
+                            <li><span>Email: </span>imma.okochua@barufai.com.ng</li>
                         </ul>
                     </div>
                 </div>

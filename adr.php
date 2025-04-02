@@ -69,7 +69,7 @@ include "header.php"
                         <h3>Contact info</h3>
                         <ul>
                             <li><span>Phone: </span>08023978040(+234)</li>
-                            <li><span>Email: </span> adr@barchambers.com.ng</li>
+                            <li><span>Email: </span> adr@barufai.com.ng</li>
                             <li><span>Address: </span>No. 5, Tokunbo Alli Street, off Toyin Street, Ikeja, Lagos, Nigeria</li>
                             <li><span>Office hour: </span>10am - 5pm</li>
                         </ul>

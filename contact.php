@@ -64,7 +64,7 @@ include "header.php"
                             <i class="ti-email"></i>
                         </div>
                         <h5>Email</h5>
-                        <p>admin@barchambers.com.ng</p>
+                        <p>admin@barufai.com.ng</p>
                         <div class="icon">
                             <i class="ti-mobile"></i>
                         </div>

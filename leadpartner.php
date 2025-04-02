@@ -53,7 +53,7 @@ include "header.php"
                             </tr>
                             <tr>
                                 <td>Email</td>
-                                <td>tunde.rufai@barchambers.com.ng</td>
+                                <td>tunderufai@barchambers.com.ng</td>
                             </tr>
                             <tr>
                                 <td>Social</td>
@@ -106,7 +106,7 @@ include "header.php"
                         <h3>Contact info</h3>
                         <ul>
                             <li><span>Phone: </span>+2348023978040</li>
-                            <li><span>Email: </span>tunde.rufai@barchambers.com.ng</li>
+                            <li><span>Email: </span>tunderufai@barchambers.com.ng</li>
                         </ul>
                     </div>
                 </div>
