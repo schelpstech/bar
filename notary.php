@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/notary.jpg" alt="Notary Public Services">
                     </div>
                     <h2>Notary Public Services</h2>
-                    <p>At BAR CHAMBERS, we offer reliable and professional notary public services to authenticate and certify legal documents. Our notary services ensure that documents are legally valid, properly executed, and acceptable for official and international use.</p>
+                    <p>At  B. A. Rufai and Company, we offer reliable and professional notary public services to authenticate and certify legal documents. Our notary services ensure that documents are legally valid, properly executed, and acceptable for official and international use.</p>
                     <p>We provide notarization for individuals, businesses, and institutions, ensuring compliance with legal requirements while maintaining the highest professional standards.</p>
 
                     <h3>This Service Includes</h3>

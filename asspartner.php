@@ -71,7 +71,7 @@ include "header.php"
                     <h3>Overview</h3>
                     <p>Abana Moyor Joy is a dedicated and driven Associate Partner with a wealth of legal experience in litigation, property law, and corporate law.
                         Called to the Bar in 2019, Abana’s career began with the Ondo State Ministry of Justice, where she was involved in prosecuting criminal cases and drafting legal documents.
-                        Since joining BAR CHambers, she has handled both civil and criminal litigation, legal research, and property law matters, including the negotiation and sale of properties, title investigations, and the drafting of legal documents.</p>
+                        Since joining  B. A. Rufai and Company, she has handled both civil and criminal litigation, legal research, and property law matters, including the negotiation and sale of properties, title investigations, and the drafting of legal documents.</p>
                     <h3>Education</h3>
                     <ol>
                         <li>Barrister at Law (B.L.) - Nigerian Law School, Lagos Campus (2019)</li>

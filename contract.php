@@ -29,7 +29,7 @@ include "header.php"
             <img src="assets/images/service-single/contract.jpg" alt="Contract Law">
         </div>
         <h2>Contract Law Practice</h2>
-        <p>At BAR CHAMBERS, we provide expert legal guidance on contract law, ensuring our clients enter into, negotiate, and enforce agreements with confidence. Our team specializes in drafting, reviewing, and litigating contracts across diverse industries, offering strategic advice to mitigate risks and safeguard business interests.</p>
+        <p>At  B. A. Rufai and Company, we provide expert legal guidance on contract law, ensuring our clients enter into, negotiate, and enforce agreements with confidence. Our team specializes in drafting, reviewing, and litigating contracts across diverse industries, offering strategic advice to mitigate risks and safeguard business interests.</p>
         <p>We work with corporations, institutions, and individuals, helping them navigate complex contractual obligations while ensuring compliance with legal frameworks. Whether it’s commercial agreements, employment contracts, partnership deeds, or investment contracts, we are committed to delivering sound legal solutions tailored to our clients' needs.</p>
         
         <h3>This Service Includes</h3>

@@ -10,7 +10,7 @@ include "header.php"
                 <div class="row">
                     <div class="col col-lg-6 col-md-6 col-sm-8 slide-caption">
                         <div class="slide-subtitle">
-                            <p>Welcome to Bar Chambers</p>
+                            <p>Welcome to  B. A. Rufai and Company</p>
                         </div>
                         <div class="slide-title">
                             <h2>Expert Legal Solutions Tailored to Your Needs</h2>
@@ -55,7 +55,7 @@ include "header.php"
                         <h3>Experienced Legal Representation with Integrity and Excellence</h3>
                     </div>
                     <div class="details">
-                        <p>At Bar Chambers, we provide comprehensive legal solutions across multiple practice areas. Our team of skilled attorneys is committed to upholding the law and ensuring justice for our clients.</p>
+                        <p>At  B. A. Rufai and Company, we provide comprehensive legal solutions across multiple practice areas. Our team of skilled attorneys is committed to upholding the law and ensuring justice for our clients.</p>
                     </div>
                 </div>
             </div>
@@ -75,15 +75,15 @@ include "header.php"
                 <div class="about-text">
                     <span>About Us</span>
                     <h3>Providing Unmatched Legal Expertise for Over 20 Years</h3>
-                    <p>Bar Chambers is a full-service law firm with a long-standing tradition of excellence. 
+                    <p> B. A. Rufai and Companyis a full-service law firm with a long-standing tradition of excellence. 
                         We specialize in corporate law, litigation, real estate, family law, and criminal defense, delivering strategic legal solutions to individuals and businesses alike.</p>
                     <p>
-                    As the founder and Senior Partner of Bar Chambers, Rufai Babatunde Adeniyi brings over two decades of expertise in diverse legal disciplines.
+                    As the founder and Senior Partner of  B. A. Rufai and Company, Rufai Babatunde Adeniyi brings over two decades of expertise in diverse legal disciplines.
                      His leadership, coupled with his vast experience, has propelled the firm to its current standing as a leader in the legal community. 
                      Mr. Adeniyi holds several professional accreditations, including LLB, BL, and certifications as a Notary Public, as well as memberships with the FCTI and ACIS, further solidifying his standing as a respected legal professional. 
                      He is dedicated to advancing the interests of clients with a clear focus on achieving successful outcomes and maintaining the highest standards of legal practice.</p>
 
-                    <p>At Bar Chambers, we are more than just legal advisors; we are your trusted partners in navigating the complexities of the legal landscape. 
+                    <p>At  B. A. Rufai and Company, we are more than just legal advisors; we are your trusted partners in navigating the complexities of the legal landscape. 
                         We are committed to providing unmatched legal expertise and delivering results that matter.</p>
                     <div class="info">
                         <h4>Rufai Babatunde Adeniyi LLB, BL, Notary Public, FCTI, ACIS</h4>
@@ -188,7 +188,7 @@ include "header.php"
                     </div>
                     <div class="grid">
                         <div class="quote">
-                            <p>"BAR Chambers has been an amazing legal firm of integrity, professionalism and excellence in all phase of legal engagement with exceptional delivery in property law and real estate development.
+                            <p>" B. A. Rufai and Companyhas been an amazing legal firm of integrity, professionalism and excellence in all phase of legal engagement with exceptional delivery in property law and real estate development.
                                 Highly recommended.
                                 "</p>
                         </div>
