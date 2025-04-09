@@ -28,12 +28,12 @@ include "header.php"
                         <img src="assets/images/team/team1.jpg" alt>
                     </div>
                     <<h2>Our People</h2>
-                        <p>At  B. A. Rufai and Company, we take pride in the incredible people who make up our community. Each individual brings unique strengths and experiences that contribute to our success.
+                        <p>At  B. A. Rufai and Company (BAR Chambers) , we take pride in the incredible people who make up our community. Each individual brings unique strengths and experiences that contribute to our success.
                             Much like a well-structured team, everyone plays a vital role, ensuring that we continue to thrive in a dynamic and supportive environment.</p>
                         <div class="img-holder">
                             <img src="assets/images/team/team2.jpg" alt>
                         </div>
-                        <p>The workspace at  B. A. Rufai and Company, while compact, is thoughtfully designed to foster collaboration and creativity. With our team of professionals—from barristers to support staff—there is always a shared sense of purpose.
+                        <p>The workspace at  B. A. Rufai and Company (BAR Chambers) , while compact, is thoughtfully designed to foster collaboration and creativity. With our team of professionals—from barristers to support staff—there is always a shared sense of purpose.
                             Our people are not just colleagues; they are a part of a thriving community, working together towards achieving excellence in their respective fields. The atmosphere is one of respect, camaraderie, and shared achievement, where everyone feels valued and empowered to contribute.</p>
                 </div>
             </div>

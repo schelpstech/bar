@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/real-estate.jpg" alt="Real Estate Law">
                     </div>
                     <h2>Real Estate and Property Law</h2>
-                    <p>At  B. A. Rufai and Company, we provide comprehensive legal solutions in real estate and property law, ensuring seamless transactions and regulatory compliance for individuals, businesses, and investors. Our expertise covers property acquisition, leasing, development, and dispute resolution.</p>
+                    <p>At  B. A. Rufai and Company (BAR Chambers) , we provide comprehensive legal solutions in real estate and property law, ensuring seamless transactions and regulatory compliance for individuals, businesses, and investors. Our expertise covers property acquisition, leasing, development, and dispute resolution.</p>
                     <p>We guide clients through the complexities of property law, offering strategic advice on property rights, land use, title verification, and real estate investment regulations. Our team ensures that transactions are secure, legally binding, and beneficial to all parties involved.</p>
 
                     <h3>This Service Includes</h3>

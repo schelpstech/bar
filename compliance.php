@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/compliance.jpg" alt="Regulatory Compliance Services">
                     </div>
                     <h2>Regulatory Compliance Services</h2>
-                    <p>At  B. A. Rufai and Company, we assist businesses and institutions in navigating complex regulatory frameworks to ensure compliance with legal and industry-specific requirements. Our team provides proactive solutions to mitigate risks and maintain regulatory standards.</p>
+                    <p>At  B. A. Rufai and Company (BAR Chambers), we assist businesses and institutions in navigating complex regulatory frameworks to ensure compliance with legal and industry-specific requirements. Our team provides proactive solutions to mitigate risks and maintain regulatory standards.</p>
                     <p>We work with clients across various industries, offering tailored legal advice and compliance strategies that align with both local and international regulatory obligations.</p>
 
                     <h3>This Service Includes</h3>

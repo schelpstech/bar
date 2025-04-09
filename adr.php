@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/adr.jpg" alt="Dispute Resolution and Litigation">
                     </div>
                     <h2>Dispute Resolution and Litigation - ADR</h2>
-                    <p>At  B. A. Rufai and Company, we provide expert legal services in dispute resolution and litigation, with a strong focus on Alternative Dispute Resolution (ADR) methods. Our goal is to help clients resolve disputes efficiently while minimizing costs and preserving business relationships.</p>
+                    <p>At  B. A. Rufai and Company (BAR Chambers), we provide expert legal services in dispute resolution and litigation, with a strong focus on Alternative Dispute Resolution (ADR) methods. Our goal is to help clients resolve disputes efficiently while minimizing costs and preserving business relationships.</p>
                     <p>Our team specializes in arbitration, mediation, and negotiation, ensuring that conflicts are handled professionally and fairly. Whether it's commercial disputes, contractual disagreements, or civil litigation, we strive to achieve favorable outcomes through strategic legal representation.</p>
 
                     <h3>This Service Includes</h3>

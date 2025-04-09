@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/corporate-secretarial.jpg" alt="Corporate Secretarial Services">
                     </div>
                     <h2>Corporate Secretarial Services</h2>
-                    <p>At  B. A. Rufai and Company, we provide comprehensive corporate secretarial services to ensure that businesses comply with statutory and regulatory requirements. Our expert team supports corporate entities by managing governance, legal filings, and compliance obligations, allowing them to focus on business growth and operations.</p>
+                    <p>At  B. A. Rufai and Company (BAR Chambers) , we provide comprehensive corporate secretarial services to ensure that businesses comply with statutory and regulatory requirements. Our expert team supports corporate entities by managing governance, legal filings, and compliance obligations, allowing them to focus on business growth and operations.</p>
                     <p>We work closely with corporations, startups, and SMEs, offering tailored solutions to meet their governance needs. From company formation to regulatory compliance, we provide strategic legal support to enhance corporate efficiency and ensure legal adherence.</p>
 
                     <h3>This Service Includes</h3>

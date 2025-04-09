@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/debt-recovery.jpg" alt="Debt Recovery">
                     </div>
                     <h2>Debt Recovery, Factoring, and Enforcement</h2>
-                    <p>At  B. A. Rufai and Company, we specialize in debt recovery, factoring, and enforcement services, ensuring that businesses and individuals recover outstanding debts efficiently and legally. Our experienced legal team provides strategic solutions to resolve debt disputes while minimizing financial risks.</p>
+                    <p>At  B. A. Rufai and Company (BAR Chambers), we specialize in debt recovery, factoring, and enforcement services, ensuring that businesses and individuals recover outstanding debts efficiently and legally. Our experienced legal team provides strategic solutions to resolve debt disputes while minimizing financial risks.</p>
                     <p>We work closely with creditors, financial institutions, and corporate clients to develop tailored debt recovery plans that comply with legal and regulatory frameworks. Our goal is to protect our clients' financial interests while fostering fair and ethical debt resolution.</p>
 
                     <h3>This Service Includes</h3>

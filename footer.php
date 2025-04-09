@@ -169,7 +169,7 @@
                 <div class="col col-xs-12">
                     <p class="copyright">© <script>
                             document.write(new Date().getFullYear());
-                        </script>  B. A. Rufai and Company. All Rights Reserved.</p>
+                        </script>  B. A. Rufai and Company (BAR Chambers). All Rights Reserved.</p>
                 </div>
             </div>
         </div>

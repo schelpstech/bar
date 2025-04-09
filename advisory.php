@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/legal-advisory.jpg" alt="Legal Advisory and Opinion Services">
                     </div>
                     <h2>Legal Advisory and Opinion Services</h2>
-                    <p>At BAR CHAMBERS, we provide expert legal advisory services to businesses, organizations, and individuals. Our team delivers well-researched legal opinions, strategic counsel, and compliance guidance to help clients make informed decisions.</p>
+                    <p>At B. A. Rufai and Company (BAR Chambers), we provide expert legal advisory services to businesses, organizations, and individuals. Our team delivers well-researched legal opinions, strategic counsel, and compliance guidance to help clients make informed decisions.</p>
                     <p>We assist in legal risk assessment, corporate governance, regulatory compliance, and contract interpretation. Our goal is to provide clarity and direction in complex legal matters, ensuring that our clients operate within the bounds of the law while maximizing opportunities.</p>
 
                     <h3>This Service Includes</h3>

@@ -7,10 +7,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content=" B. A. Rufai and Company">
-    <meta name="description" content=" B. A. Rufai and Company - Expert legal services in Nigeria. Specializing in contracts, litigation, and corporate law.">
+    <meta name="author" content=" B. A. Rufai and Company (BAR Chambers)">
+    <meta name="description" content=" B. A. Rufai and Company (BAR Chambers) - Expert legal services in Nigeria. Specializing in contracts, litigation, and corporate law.">
     <meta name="keywords" content="law firm, legal services, litigation, contracts, company secretarial, Nigeria law">
-    <title> B. A. Rufai and Company – Trusted Legal Experts</title>
+    <title> B. A. Rufai and Company (BAR Chambers) – Trusted Legal Experts</title>
     <link rel="icon" href="https://barchambers.com.ng/assets/images/logo.jpg" type="image/jpg">
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -95,7 +95,7 @@
                             <li class="menu-item-has-children">
                                 <a href="#">About</a>
                                 <ul class="sub-menu">
-                                    <li><a href="about.php"> B. A. Rufai and Company</a></li>
+                                    <li><a href="about.php"> B. A. Rufai and Company (BAR Chambers)</a></li>
                                     <li><a href="people.php">Events</a></li>
                                 </ul>
                             </li>

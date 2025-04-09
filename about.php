@@ -22,16 +22,16 @@ include "header.php"
     <div class="content-area clearfix">
         <div class="left-col">
             <div class="about-text">
-                <span>Welcome To  B. A. Rufai and Company</span>
+                <span>Welcome To  B. A. Rufai and Company (BAR Chambers)</span>
                 <h3>With 20 years of experience in this field, we guarantee exceptional services you can rely on.</h3>
                 <p>
-                     B. A. Rufai and Company is a broad based Commercial, Criminal and Corporate Law Firm with its head office in Lagos State Nigeria and branch offices in Federal Capital Territory and Ogun State of Nigeria.
+                     B. A. Rufai and Company (BAR Chambers) is a broad based Commercial, Criminal and Corporate Law Firm with its head office in Lagos State Nigeria and branch offices in Federal Capital Territory and Ogun State of Nigeria.
                     The firm is dedicated to the practice and development of the Law in the highest tradition of the Bar with utmost integrity and commitment.
                     The firm believes in the maintenance of a resourceful, dedicated, committed and up-to-date team of Legal Practitioners as a vital prerequisite in modern law practice.
                     The firm is also properly networked with other like-minds law firms globally and it is efficiently organized and has the capacity to rapidly deploy its legal resources and networks to meet its clients’ needs.
                     The Firm has a team of experienced Practitioners with common positive vision for attainment of Legal excellence.
                 </p>
-                <p> B. A. Rufai and Company, officially known as B. A. Rufai and Company, is a distinguished law firm located at 5 Tokunbo Alli Street, Off Toyin Street, Ikeja, Lagos.
+                <p> B. A. Rufai and Company (BAR Chambers) is a distinguished law firm located at 5 Tokunbo Alli Street, Off Toyin Street, Ikeja, Lagos.
                     We specialize in a broad spectrum of legal services, including litigation (trial and appellate courts), arbitration and alternative dispute resolution (ADR), as well as commercial, investment, property, and corporate law practices.
                     We are committed to providing comprehensive legal solutions tailored to meet the diverse needs of our clients.​</p>
                 <a href="#" class="theme-btn-s2">Explore More</a>
@@ -75,7 +75,7 @@ include "header.php"
                     <!-- Tab panes -->
                     <div class="tab-content">
                         <div class="tab-pane in active" id="tab-1">
-                            <p>At  B. A. Rufai and Company, our mission is to provide exceptional legal representation and advisory services with integrity,
+                            <p>At  B. A. Rufai and Company (BAR Chambers), our mission is to provide exceptional legal representation and advisory services with integrity,
                                 professionalism, and a commitment to justice. We strive to offer innovative legal solutions tailored to the needs of our corporate,
                                 institutional, and individual clients, ensuring excellence in litigation, arbitration, corporate law, and commercial practice.</p>
                             <p> Our goal is to uphold the highest legal standards while fostering a client-focused approach that delivers results.</p>

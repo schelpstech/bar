@@ -27,7 +27,7 @@ include "header.php"
                         <img src="assets/images/service-single/litigation.jpg" alt="Civil and Criminal Litigation Services">
                     </div>
                     <h2>Civil and Criminal Litigation Services</h2>
-                    <p>At  B. A. Rufai and Company, we provide comprehensive legal representation in both civil and criminal litigation. Our experienced legal team is committed to advocating for our clients' rights and achieving favorable outcomes in complex legal disputes.</p>
+                    <p>At  B. A. Rufai and Company (BAR Chambers) , we provide comprehensive legal representation in both civil and criminal litigation. Our experienced legal team is committed to advocating for our clients' rights and achieving favorable outcomes in complex legal disputes.</p>
                     <p>We represent individuals, businesses, and institutions in court proceedings, mediation, and arbitration, ensuring effective legal strategies that align with our clients' best interests.</p>
 
                     <h3>This Service Includes</h3>
