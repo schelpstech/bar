@@ -75,7 +75,7 @@ include "header.php"
                 <div class="about-text">
                     <span>About Us</span>
                     <h3>Providing Unmatched Legal Expertise for Over 20 Years</h3>
-                    <p> B. A. Rufai and Company (BAR Chambers)is a full-service law firm with a long-standing tradition of excellence. 
+                    <p> B. A. Rufai and Company (BAR Chambers) is a full-service law firm with a long-standing tradition of excellence. 
                         We specialize in corporate law, litigation, real estate, family law, and criminal defense, delivering strategic legal solutions to individuals and businesses alike.</p>
                     <p>
                     As the founder and Senior Partner of  B. A. Rufai and Company (BAR Chambers), Rufai Babatunde Adeniyi brings over two decades of expertise in diverse legal disciplines.
