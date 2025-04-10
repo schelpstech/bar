@@ -151,10 +151,10 @@
                         </form>
                         <div class="social-icons">
                             <ul>
-                                <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                <li><a href="#"><i class="ti-instagram"></i></a></li>
+                                <li><a href="https://www.facebook.com/share/1EER46whoh/"><i class="ti-facebook"></i></a></li>
+                                <li><a href="https://x.com/lawklinic?s=09"><i class="ti-twitter-alt"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/rufai-babatunde-llb-bl-notary-public-fcti-acis-aa749417?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="ti-linkedin"></i></a></li>
+                                <li><a href="#"><i class="ti-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -169,7 +169,7 @@
                 <div class="col col-xs-12">
                     <p class="copyright">© <script>
                             document.write(new Date().getFullYear());
-                        </script>  B. A. Rufai and Company (BAR Chambers). All Rights Reserved.</p>
+                        </script> B. A. Rufai and Company (BAR Chambers). All Rights Reserved.</p>
                 </div>
             </div>
         </div>
